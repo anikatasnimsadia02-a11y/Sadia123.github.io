@@ -1,0 +1,8 @@
+{
+  "name": "Remix Anika Tasnim Sadia | Water Resources Engineering Portfolio",
+  "description": "Portfolio of Anika Tasnim Sadia, Civil Engineering graduate specializing in Water Resources Engineering, Machine Learning (CMIP6 Projections), SWMM hydrologic modeling, and ArcGIS spatial analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
